@@ -1,5 +1,10 @@
 # E-Bikes Lightning Web Components Sample Application
 
+<a href="https://githubsfdeploy.herokuapp.com?owner=deekshagupta26&repo=trail-comp1">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
 [![CircleCI](https://circleci.com/gh/trailheadapps/ebikes-lwc.svg?style=svg)](https://circleci.com/gh/trailheadapps/ebikes-lwc)
 
 ![ebikes-logo](ebikes-logo.png)
